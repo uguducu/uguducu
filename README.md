@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://alpuguducu.com)**
 
-- 📫 How to reach me **alpuguducu.raoniar@gmail.com**
+- 📫 How to reach me **alpuguducu@gmail.com**
 
 ## 🚀 Languages and Tools:
 
