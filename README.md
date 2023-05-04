@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Hyperdev Tech](http://www.hyperdevtech.com/)**
+- 🔭 I’m currently working on **[Bilge Adam Teknoloji](https://www.bilgeadam.com/)**
 
 - 🌱 I am currently learning **React and React Native.**
 
